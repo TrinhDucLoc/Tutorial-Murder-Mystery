@@ -86,5 +86,4 @@ Now you need to search for multiple keywords in one file. How can you combine `g
 + Read document "https://github.com/makersacademy/clmystery/blob/main/step9"
 + Read document "https://github.com/makersacademy/clmystery/tree/main/detective_handbook"
 
-+ Create file 'jail.txt'
 + Note: suspect is male
