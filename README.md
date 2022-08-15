@@ -1,11 +1,11 @@
 ---
 author: Loc Trinh
-title: Tutorial Murder mystery
+title: Tutorial Murder Mystery
 id: Tutorial-Murder-Mystery
 ---
 
-### Tutorial-Murder-Mystery
-# Step 1: 
+# Tutorial-Murder-Mystery
+## Step 1: 
 + Read document "https://github.com/makersacademy/clmystery/blob/main/step1"
 + Read document "https://github.com/makersacademy/clmystery/tree/main/detective_handbook"
 
@@ -13,21 +13,21 @@ id: Tutorial-Murder-Mystery
 + Create file 'clues.txt'
 + Use `>` to save the output of the `grep` command to the 'clues.txt' file.
  
-# Step 1-Git: Tutorial Update File to Github
+## Step 1-Git: Tutorial Update File to Github
 + Step1: $git checkout main
 + Step2: $git status
 + Step3: $git add .    
 + Step4: $git commit -m "Your Message"
 + Step5: $git push origin main
 
-# Step 2:
+## Step 2:
 + Read document "https://github.com/makersacademy/clmystery/blob/main/step2"
 + Read document "https://github.com/makersacademy/clmystery/blob/main/hint1"
 
 + Create file 'could_witnesses.txt'
 + Try to search for 'Annabel' in the 'people' file. And save into file 'could_witnesses.txt'
 
-# Step 3:
+## Step 3:
 + Read document "https://github.com/makersacademy/clmystery/blob/main/step3"
 + Read document "https://github.com/makersacademy/clmystery/tree/main/detective_handbook"
 
@@ -38,7 +38,7 @@ id: Tutorial-Murder-Mystery
 + Find streets name in folder "streets"
 
 
-# Step 4:
+## Step 4:
 + Read document "https://github.com/makersacademy/clmystery/blob/main/step4"
 + Read document "https://github.com/makersacademy/clmystery/tree/main/detective_handbook"
 
@@ -50,7 +50,7 @@ id: Tutorial-Murder-Mystery
 
 + Commit it and push to Github. Read: Step 1-Git: Tutorial Update File to Github
 
-# Step 5:
+## Step 5:
 + Read document "https://github.com/makersacademy/clmystery/blob/main/step5"
 + Read document "https://github.com/makersacademy/clmystery/tree/main/detective_handbook"
 
@@ -61,7 +61,7 @@ To recover your 'step5' file, use the `git checkout` command to check out the 's
 
 + Read document: "https://rewind.com/blog/recovering-deleted-files-in-github/"
 
-# Step 6:
+## Step 6:
 + Read document "https://github.com/makersacademy/clmystery/blob/main/step6"
 + Read document "https://github.com/makersacademy/clmystery/tree/main/detective_handbook"
 
@@ -74,15 +74,15 @@ Now you need to search for multiple keywords in one file. How can you combine `g
 
 + Create file 'suspects.txt' to save the list of suspects.
 
-# Step 7:
+## Step 7:
 + Read document "https://github.com/makersacademy/clmystery/blob/main/step7"
 + Read document "https://github.com/makersacademy/clmystery/tree/main/detective_handbook"
 
-# Step 8:
+## Step 8:
 + Read document "https://github.com/makersacademy/clmystery/blob/main/step8"
 + Read document "https://github.com/makersacademy/clmystery/tree/main/detective_handbook"
 
-# Step 9:
+## Step 9:
 + Read document "https://github.com/makersacademy/clmystery/blob/main/step9"
 + Read document "https://github.com/makersacademy/clmystery/tree/main/detective_handbook"
 
